@@ -204,8 +204,8 @@ FOOTER CLASSS
 .footer{width:960px; margin:0 auto; margin-top:50px;}
 .footer p{ text-align:center; padding-bottom:50px;}
 
-@media only screen
-and (max-width: 640px) {
+@media  screen
+and (max-width: 773px) {
 
 .call{
   width: 950px;
