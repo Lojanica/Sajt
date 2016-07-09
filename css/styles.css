@@ -205,8 +205,8 @@ FOOTER CLASSS
 .footer p{ text-align:center; padding-bottom:50px;}
 
 @media screen 
-and (device-width: 773px)
-and (device-height: 518px) {
+and (device-width: 772px)
+ {
 
 .call{
   width: 950px;
